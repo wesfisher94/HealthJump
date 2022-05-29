@@ -1,4 +1,4 @@
-# HealthJumpAPI
+# HealthJumpAssessment
 
 The purpose of this script is to pull down and filter patient demographics data from the HealthJump API sandbox. The parameters in this case are any patient with a first name of A, B, or C.
 
